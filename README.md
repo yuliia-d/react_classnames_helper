@@ -1,2 +1,2 @@
-# react_classnames_helper
-Created with CodeSandbox
+# react classnames helper
+An analogue of popular tools such as classnames snd cxsl
